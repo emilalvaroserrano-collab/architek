@@ -1,0 +1,10 @@
+{
+  "name": "Architech AI",
+  "description": "Redesign and visualize your space in architectural and interior design styles using Architech AI. Swipe through styled variations of your own room.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
